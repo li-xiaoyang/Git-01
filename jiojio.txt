@@ -1,3 +1,7 @@
 叫阿道夫
+<<<<<<< HEAD
 hshahah
 我噢噢噢噢哦哦哦
+=======
+hshahah
+>>>>>>> featurel
